@@ -6,7 +6,7 @@ session_start();
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
-    <title>Sport Connect - Espaces sportifs de proximité</title>
+    <title>INFRASPORT - Espaces sportifs de proximité</title>
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
     <link rel="stylesheet" href="assets/css/style.css">
@@ -154,7 +154,7 @@ session_start();
 <!-- Footer -->
 <footer class="bg-dark text-white py-4">
     <div class="container text-center">
-        <p class="mb-0">© 2024 Sport Connect - Le sport accessible à tous</p>
+        <p class="mb-0">© 2026 Sport Connect - Le sport accessible à tous</p>
         <small class="text-muted">Solution innovante contre le manque d'infrastructures sportives</small>
     </div>
 </footer>
